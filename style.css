@@ -66,6 +66,7 @@ section{
     color:#fff;
     background: var(--main-color);
     cursor: pointer;
+    border-radius: 50px;
 }
 
 .btn:hover{
