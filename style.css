@@ -71,6 +71,7 @@ section{
 
 .btn:hover{
     letter-spacing: .2rem;
+    background-color: black;
 }
 
 .header{
