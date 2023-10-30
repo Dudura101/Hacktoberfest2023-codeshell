@@ -52,6 +52,9 @@ section{
     padding-bottom: 3.5rem;
     font-size: 4rem;
 }
+.heading:hover {
+    color: #010103;
+}
 
 .heading span{
     color:var(--main-color);
